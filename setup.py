@@ -10,3 +10,4 @@ setup(
     author_email='me@example.com',
     packages=[],
     classifiers=['Development Status :: 1 - Planning'],
+)
